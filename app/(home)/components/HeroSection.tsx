@@ -18,7 +18,7 @@ export default function HeroSection() {
         
          </h1>
          
-         <h2 className='text-3xl'> CS @ University at Buffalo </h2>
+         <h2 className='text-3xl text-bold'> CS @ University at Buffalo </h2>
          <p className='md:w-96 text-lg text-gray-300'>
             {"I'm Muntashir Adnan, currently an sophomore majoring in Computer Science 🧪 I'm a up incoming developer wanting users to have a easier life🤝. I love video games and even compete on a UB team🕹️, and I've been really trying to get into video editing🎥!"}
          </p>
